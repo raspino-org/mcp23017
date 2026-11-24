@@ -9,17 +9,30 @@
  * Requires:
  *  - MCP23017 I2C 16 Bit I/O Expander Modul
  *
+ * * @github https://github.com/raspino-org/mcp23017
  *
- * @author Kay Donau
- * @version 1.0.0
- * @date 27.11.2025
- * @license MIT
- * @Copyright (c) 2025-2026 <dev@raspino.org>
- * This file is a part of the Raspino-Project.
+ * MCP23017 is a part of the Raspino-Project <https://raspino.org>
+ * @copyright Copyright (c) 2025-2026 Raspino-Projekt <dev@raspino.org>
+ * @license GNU General Public License v3.0 (GPL-3.0-or-later)
  *
- * GitHub: https://github.com/dsmurph/mcp23017
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * 
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ * 
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <https://gnu.org>.
+ * 
+ * Raspino (TM) is a trademark of the Raspino-Project and belongs to the community.
+ * https://github.com/raspino-org
  */
-
+ 
 #pragma once
 
 #include <iostream>
